@@ -1,4 +1,0 @@
-
-gre.pojo.SqlHelper x = new gre.pojo.SqlHelper(getContext(), "HF");
-android.database.Cursor z = x.getCursor();
-z.getPosition();
